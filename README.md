@@ -13,7 +13,7 @@ This repository accompanies a deep lecture on **Dependency Injection (DI)** as a
 
 ▶️ Watch on YouTube:  
 
-[Lecture Video](#)
+[Lecture Video](https://youtu.be/TJU2rCkHaMM)
 
 ---
 

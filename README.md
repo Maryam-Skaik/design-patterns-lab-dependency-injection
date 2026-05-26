@@ -1,7 +1,8 @@
 # 🧩 Design Patterns Lab — Dependency Injection (DI)
 
 ![Java](https://img.shields.io/badge/Language-Java-blue)
-![Pattern](https://img.shields.io/badge/Pattern-Dependency%20Injection-green)
+![Pattern](https://img.shields.io/badge/Pattern-Dependency%20Injection-pink)
+![Week](https://img.shields.io/badge/Week-5-green)
 ![Level](https://img.shields.io/badge/Level-Beginner--Intermediate-orange)
 ![Focus](https://img.shields.io/badge/Focus-Coupling%20%26%20Flexibility-purple)
 
@@ -327,6 +328,26 @@ Avoid unnecessary DI when:
 - Keep responsibilities clearly separated  
 - Combine with other design principles carefully  
 
+---
+
+## 💾 Solutions
+
+📁 [`solutions/`](solutions/)
+
+All activity solutions are available inside the `/solutions` folder.
+
+Each solution includes:
+
+* UML diagrams and design explanation
+* Clean and well-structured Java implementation
+* Notes about relationships and design decisions
+* Dependency Injection workflow explanation
+* Constructor injection usage analysis
+* Example usage through `Main.java`
+* Fake implementations for testing scenarios
+* Extension examples showing system flexibility (Bonus)
+
+---
 ---
 
 ## 🎯 Learning Outcomes

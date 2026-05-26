@@ -329,6 +329,26 @@ Avoid unnecessary DI when:
 
 ---
 
+## 💾 Solutions
+
+📁 [`solutions/`](solutions/)
+
+All activity solutions are available inside the `/solutions` folder.
+
+Each solution includes:
+
+* UML diagrams and design explanation
+* Clean and well-structured Java implementation
+* Notes about relationships and design decisions
+* Dependency Injection workflow explanation
+* Constructor injection usage analysis
+* Example usage through `Main.java`
+* Fake implementations for testing scenarios
+* Extension examples showing system flexibility (Bonus)
+
+---
+---
+
 ## 🎯 Learning Outcomes
 
 After studying this repository, you should be able to:

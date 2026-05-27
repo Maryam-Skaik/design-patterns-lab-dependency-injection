@@ -348,7 +348,6 @@ Each solution includes:
 * Extension examples showing system flexibility (Bonus)
 
 ---
----
 
 ## 🎯 Learning Outcomes
 
